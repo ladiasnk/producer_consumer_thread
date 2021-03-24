@@ -1,6 +1,0 @@
-Open your bach cell and when run : 
-gcc producer_consumer_modified.c Functions.c -pthread -o program.out -lm -O3
-to compile the code
-then run:
-./multiple_p_q.sh
-and the programm will start executing for various number of producers and consumers
